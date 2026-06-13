@@ -22,3 +22,7 @@ MotiMotion uses a training-free visual-language reasoner to refine user intent, 
   year={2026},
 }
 ```
+
+## Acknowledgment
+
+We thank [PhysGen3D](https://by-luckk.github.io/PhysGen3D/) for releasing the evaluation prompt.
